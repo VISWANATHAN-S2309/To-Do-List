@@ -117,7 +117,7 @@ const Addtask = () => {
           <th colSpan="20"className="header">To-Do List</th>
         </tr>
        <tr className="sec">
-        <th>Task</th>
+        <th>Tasks</th>
         <th>Description</th>
         <th>Time&Date</th>
         <th>Priority</th>
